@@ -1,0 +1,28 @@
+﻿  MFCApplication1.cpp
+  MFCApplication1Dlg.cpp
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(270,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(274,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(601,10): warning C4244: “初始化”: 从“double”转换到“byte”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(718,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(728,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(729,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(735,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(736,48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(737,48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(756,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(777,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(816,8): warning C4244: “=”: 从“double”转换到“byte”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(816,17): warning C4244: “=”: 从“double”转换到“byte”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(816,26): warning C4244: “=”: 从“double”转换到“byte”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1032,17): warning C4244: “=”: 从“__int64”转换到“byte”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1032,41): warning C4244: “=”: 从“__int64”转换到“byte”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1032,67): warning C4244: “=”: 从“__int64”转换到“byte”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1006,10): warning C4101: “c”: 未引用的局部变量
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1065,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1075,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1106,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1116,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1205,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\MFCApplication1\MFCApplication1Dlg.cpp(1215,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  MFCApplication1.vcxproj -> D:\OneDrive - eduhk\Onedrive\whu\CS\c++\程序设计实践\MFCApplication1\Debug\MFCApplication1.exe
